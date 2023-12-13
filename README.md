@@ -1,4 +1,4 @@
-# Phishing para captura de senhas do Facebook (estudos de cibersegurity)
+# Phishing para captura de senhas do Facebook (estudos de cibersegurança)
 
 ## Ferramentas
 
